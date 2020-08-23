@@ -1,4 +1,4 @@
-#!/usr/bin/env python
+#!/home/pi/projects/magicbandreader/virtual_env/bin/python3
 from __future__ import print_function
 import argparse
 import binascii
@@ -28,8 +28,8 @@ print_band_id = False
 reverse_circle = True
 
 # The number of NeoPixels
-ring_pixels = 50 
-mickey_pixels = 40 
+ring_pixels = 53
+mickey_pixels = 41
 
 COLOR_GREEN = (255,0,0) 
 COLOR_RED   = (0,255,0)
